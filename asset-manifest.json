@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hamzaelmatador/CrisWeedDashboard.git/static/css/main.ddeb1b60.css",
-    "main.js": "/hamzaelmatador/CrisWeedDashboard.git/static/js/main.9055113a.js",
-    "index.html": "/hamzaelmatador/CrisWeedDashboard.git/index.html",
-    "main.ddeb1b60.css.map": "/hamzaelmatador/CrisWeedDashboard.git/static/css/main.ddeb1b60.css.map",
-    "main.9055113a.js.map": "/hamzaelmatador/CrisWeedDashboard.git/static/js/main.9055113a.js.map"
+    "main.css": "/CrisWeedDashboard/static/css/main.ddeb1b60.css",
+    "main.js": "/CrisWeedDashboard/static/js/main.9055113a.js",
+    "index.html": "/CrisWeedDashboard/index.html",
+    "main.ddeb1b60.css.map": "/CrisWeedDashboard/static/css/main.ddeb1b60.css.map",
+    "main.9055113a.js.map": "/CrisWeedDashboard/static/js/main.9055113a.js.map"
   },
   "entrypoints": [
     "static/css/main.ddeb1b60.css",
