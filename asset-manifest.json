@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hamzaelmatador/CrisWeedDashboard.git/static/css/main.ddeb1b60.css",
+    "main.js": "/hamzaelmatador/CrisWeedDashboard.git/static/js/main.9055113a.js",
+    "index.html": "/hamzaelmatador/CrisWeedDashboard.git/index.html",
+    "main.ddeb1b60.css.map": "/hamzaelmatador/CrisWeedDashboard.git/static/css/main.ddeb1b60.css.map",
+    "main.9055113a.js.map": "/hamzaelmatador/CrisWeedDashboard.git/static/js/main.9055113a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddeb1b60.css",
+    "static/js/main.9055113a.js"
+  ]
+}
